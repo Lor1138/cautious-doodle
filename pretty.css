@@ -1,0 +1,7 @@
+h1 {
+    display: flex;
+    align-items: center;
+    min-height: 24em;
+    justify-content: center;
+}
+
